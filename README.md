@@ -16,14 +16,27 @@
 
 ---
 
-## About
+## About 
 
 AeroDLL is a developer focused on **C# / .NET–based system-level development** on Windows.  
-Primary areas include **Windows Internals**, **memory management**, and **process-level tooling** using managed and unmanaged interoperability.
+Primary areas of interest include **Windows Internals**, **memory management**, and  
+**process-level tooling** using managed and unmanaged interoperability.
+
+Core work revolves around building reliable, low-level tools on top of the .NET ecosystem.
 
 ---
 
-## Core Focus Areas
+## Hakkımda 
+
+AeroDLL, Windows üzerinde **C# / .NET tabanlı sistem seviyesi geliştirme** alanına odaklanan bir geliştiricidir.  
+Başlıca çalışma alanları **Windows Internals**, **bellek yönetimi** ve  
+**managed–unmanaged etkileşimi** içeren araçlardır.
+
+Çalışmalar, .NET ekosistemi üzerinde düşük seviyeli ve güvenilir sistem araçları geliştirmeye yöneliktir.
+
+---
+
+## Core Focus Areas / Odak Alanları
 - Windows Internals (User-mode)
 - Memory Management & Manipulation
 - Process / Thread Operations
@@ -33,34 +46,12 @@ Primary areas include **Windows Internals**, **memory management**, and **proces
 
 ---
 
-## Technology Stack
+## Technology Stack / Teknoloji Yığını
 
 | Category | Technologies |
 |--------|--------------|
-| **Languages** | C# (.NET) |
-| **Frameworks** | .NET Framework, .NET Core |
+| **Language / Dil** | C# (.NET) |
+| **Framework** | .NET Framework, .NET Core |
 | **System APIs** | WinAPI, NTDLL |
 | **Techniques** | P/Invoke, Memory Mapping |
 | **Tools** | dnSpy, x64dbg, Process Hacker |
-
----
-
-## Selected Projects
-
-- **AeroLoader**  
-  C#-based native payload loader with focus on reliability and control.
-
-- **SilentInject**  
-  DLL injection techniques implemented using managed-to-unmanaged interop.
-
-- **DotNetInternals**  
-  Research and experimentation around CLR, IL, and runtime behavior.
-
-- **WinMemKit**  
-  Windows memory manipulation utilities for analysis and tooling.
-
-- **AeroBypass**  
-  Environment checks and runtime behavior testing.
-
----
-
