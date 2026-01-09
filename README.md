@@ -22,7 +22,6 @@ AeroDLL is a developer focused on **C# / .NET–based system-level development**
 Primary areas of interest include **Windows Internals**, **memory management**, and  
 **process-level tooling** using managed and unmanaged interoperability.
 
-Core work revolves around building reliable, low-level tools on top of the .NET ecosystem.
 
 ---
 
@@ -32,17 +31,7 @@ AeroDLL, Windows üzerinde **C# / .NET tabanlı sistem seviyesi geliştirme** al
 Başlıca çalışma alanları **Windows Internals**, **bellek yönetimi** ve  
 **managed–unmanaged etkileşimi** içeren araçlardır.
 
-Çalışmalar, .NET ekosistemi üzerinde düşük seviyeli ve güvenilir sistem araçları geliştirmeye yöneliktir.
 
----
-
-## Core Focus Areas / Odak Alanları
-- Windows Internals (User-mode)
-- Memory Management & Manipulation
-- Process / Thread Operations
-- DLL Injection Techniques (C# loaders)
-- WinAPI & P/Invoke
-- .NET Runtime Behavior
 
 ---
 
